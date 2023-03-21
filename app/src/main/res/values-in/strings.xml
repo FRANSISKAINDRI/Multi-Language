@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Formulir Multi Bahasa</string>
+    <string name="Lokasi">Lokasi</string>
+    <string name="jalan">Jalan</string>
+    <string name="KodePos">Kode Pos</string>
+    <string name="Negara">Negara</string>
+    <string-array name="DaftarNegara">
+        <item>Indonesia</item>
+        <item>Singapura</item>
+        <item>Malaysia</item>
+        <item>Filipina</item>
+        <item>Australia</item>
+    </string-array>
+    <string name="Pemakai">Pemakai</string>
+    <string name="Nama">Nama</string>
+    <string name="Telp">Telepone</string>
+    <string name="Sandi">Sandi</string>
+    <string name="TglLahir">Tgl Lahir</string>
+    <string name="Ulang">Ulang</string>
+    <string name="Simpan">Simpan</string>
+</resources>
